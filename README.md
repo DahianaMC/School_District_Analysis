@@ -29,9 +29,14 @@
 - How is the district summary affected?
     - The Distric Summary was made from the 39,170 students and it is displayed for total of the students.  The data from ninth-grade math and reading scores from Thomas High School that has changed was for 461 students.  The percentage of the students that has changed was 461/39,170x100=1.18%.  With this in mind the impact on the District summary was low.  On the table below the percentages only are changing 1% on the %passing for math and reading and %overall passing.  
     ![District Summary Table](https://github.com/DahianaMC/School_District_Analysis/blob/master/District%20Summary%20Table.png)
+
 - How is the school summary affected?
-    - The School Summary was affected only for Thomas High School and has a high impact on the % passing math and reading and % overall passing.  Looks like the ninth grades were having scores higher than 70% from the original data.
+    - The School Summary was affected only for Thomas High School and has a high impact on the % passing math and reading and % overall passing.  Looks like the ninth graders were having reading and math scores higher than 70% from the original data.
     ![School Summary Table](https://github.com/DahianaMC/School_District_Analysis/blob/master/School%20Summary%20Table.png)
+
+- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
+    - The performance of the Thomas High School was seriously affected by loosing the reading and math scores from the 9th graders.  The school went from the 2nd place for the Charter type to the last one.
+    ![Top and Bottom Schools Table](
 
     
 
