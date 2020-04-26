@@ -20,6 +20,11 @@
     - School Summary (contains the average of the data by school name).
     - Type Summary (Provide average of the math and reading scores and %passing by school type).
     
+## Files for Challenge:
+- PyCitySchools.ipynb (jupyter notebook)
+- Resources (folder with files for the module exercise and challenge)
+- output_org_code (folder for results for module exercise)
+    
 ## Challenge Module 4
 ## Goals
 - Replace the ninth-grade math and reading scores from Thomas High School with NaN and keep intact the rest of the data. 
@@ -49,11 +54,17 @@
     ![Spending Summary Table](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/Spending%20Summary%20Table.png)
     
     - Scores by School Size:
-        - Looking the School Summary table, the school size for Thomas HS was Medium (1000-2000).  The size summary table shows the %Passing for math and reading and %Overall passing are decreasing.
+        - Looking the School Summary table, the school size for Thomas HS was Medium (1000-2000).  The size summary table shows the %Passing for math and reading and %Overall passing are decreasing as well.
     ![Size Summary Table](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/Size%20Summary%20Table.png)
     
     - Scores by School Type:
         - Since the Thomas HS was a Charter school type, the %Passing for math and reading and %Overall passing are decreasing for Charter school type on Type Summary table.
     ![Type Summary Table](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/Type%20Summary%20Table.png)
     
+- In general make the reading and math scores NaN for the Thomas HS, 9th graders, affects the calculations for %Passing math and reading scores and the %Overall Passing. Looks like several values for the data replaced were higher than 70%. 
 
+## Files for Challenge:
+- PyCitySchools Challenge.ipynb (jupyter notebook)
+- Resources (folder with files for the module exercise and challenge)
+- output (folder for challenge results)
+- School_District_Analysis_Summary_Tables (Folder with summary tables)
