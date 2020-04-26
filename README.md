@@ -23,9 +23,9 @@
 ## Files for Module Exercise:
 - PyCitySchools.ipynb (jupyter notebook)
 - Resources (folder with files for the module exercise and challenge)
-- output_org_code (folder for results for module exercise)
+- output_org_code (folder for results)
     
-## Challenge Module 4
+# Challenge Module 4
 ## Goals
 - Replace the ninth-grade math and reading scores from Thomas High School with NaN and keep intact the rest of the data. 
 - Explain how the analysis changes.
