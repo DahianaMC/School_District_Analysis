@@ -62,7 +62,7 @@
         - Since the Thomas HS was a Charter school type, the %Passing for math and reading and %Overall passing are decreasing for Charter school type on Type Summary table.
     ![Type Summary Table](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/Type%20Summary%20Table.png)
     
-- In general make the reading and math scores NaN for the Thomas HS, 9th graders, affects the calculations for %Passing math and reading scores and the %Overall Passing, becuase the %passing for math and reading are computing  counting the reading or math scores higher than 70, then divide it by the total students per school, the issue with the formula is the total students is calculated counting the student names and does not reflect the scores that are NaN.
+- In general make the reading and math scores NaN for the Thomas HS, 9th graders, affects the calculations for %Passing math and reading scores and the %Overall Passing, becuase the %passing for math and reading are computed counting the reading or math scores higher than 70, then divide it by the total students per school, the issue with the formula is the total students per school is calculated counting the student names and does not reflect the scores that are NaN.
 
 ## Files for Challenge:
 - PyCitySchools Challenge.ipynb (jupyter notebook)
