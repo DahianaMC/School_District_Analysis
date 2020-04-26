@@ -40,6 +40,7 @@
 
 - How does replacing the ninth-grade scores affect the following?
     - Math and Reading Scores by Grade:
+        - The math are reading scores changed on the data, were the ones for Thomas High School for 9th graders.  The math and reading scores are only NaN values now.  The summary tables below show the actual (challenge) values for Thomas HS, 9th graders, only NaN values:
     ![Math Scores for 9th graders](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/Math%20Scores%20for%209th%20graders.png)
     
     ![Reading Scores for 9th graders](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/Reading%20Scores%20for%209th%20graders.png)
