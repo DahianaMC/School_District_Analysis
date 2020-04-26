@@ -37,7 +37,7 @@
     ![District Summary Table](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/District%20Summary%20Table.png)
 
 - How is the school summary affected?
-    - The School Summary was affected only for Thomas High School and has a high impact on the % passing math and reading and % overall passing.  Looks like the ninth graders were having reading and math scores higher than 70% from the original data.
+    - The School Summary was affected only for Thomas High School and has a high impact on the % passing math and reading and % overall passing, because the calculations are made counting how many students have math and reading scores higher than 70, then is divided by the total of students per school.  The total of students per school is calculated counting the student name per school and does not reflect the data that is NaN in reading and math scores.
     ![School Summary Table](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/School%20Summary%20Table.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
