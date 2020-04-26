@@ -28,7 +28,7 @@
 # Challenge Module 4
 ## Goals
 - Replace the ninth-grade math and reading scores from Thomas High School with NaN and keep intact the rest of the data. 
-    - Using loc, the reading and math scores for Thomas HS ofr 9th graders were replaced by NaN.  See Jupyter Notenook file: PyCitySchools Challenge.ipyn
+    - Using loc, the reading and math scores for Thomas HS forr 9th graders were replaced by NaN.  See Jupyter Notenook file: PyCitySchools Challenge.ipyn
 - Explain how the analysis changes.
 
 ## Analysis
