@@ -40,18 +40,20 @@
 
 - How does replacing the ninth-grade scores affect the following?
     - Math and Reading Scores by Grade:
-        - The math are reading scores changed on the data, were the ones for Thomas High School for 9th graders.  The math and reading scores are only NaN values now.  The summary tables below show the actual (challenge) values for Thomas HS, 9th graders, only NaN values:
+        - The math are reading scores changed on the data, were the ones for Thomas High School for 9th graders.  The math and reading scores are only NaN values now.  The summary tables show the actual (challenge) values for Thomas HS, 9th graders are only NaN values:
     ![Math Scores for 9th graders](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/Math%20Scores%20for%209th%20graders.png)
-    
     ![Reading Scores for 9th graders](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/Reading%20Scores%20for%209th%20graders.png)
     
     - Scores by School Spending:
+        - Looking the School Summary table, the spending range for Thomas High School was $630-644.  The spending summary table shows the %Passing for math and reading and %Overall passing are decreasing, confirming a good number of values for math and reading for Thomas HS for 9th graders for the original data were higher than 70%.
     ![Spending Summary Table](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/Spending%20Summary%20Table.png)
     
     - Scores by School Size:
+        - Looking the School Summary table, the school size for Thomas HS was Medium (1000-2000).  The size summary table shows the %Passing for math and reading and %Overall passing are decreasing.
     ![Size Summary Table](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/Size%20Summary%20Table.png)
     
     - Scores by School Type:
+        - Since the Thomas HS was a Charter school type, the %Passing for math and reading and %Overall passing are decreasing for Charter school type on Type Summary table.
     ![Type Summary Table](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/Type%20Summary%20Table.png)
     
 
