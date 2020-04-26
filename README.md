@@ -36,7 +36,7 @@
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
     - The performance of the Thomas High School was seriously affected by loosing the reading and math scores from the 9th graders.  The school went from the 2nd place for the Charter type to the last one.
-    ![Top and Bottom Schools Table](
+    ![Top and Bottom Schools Table](https://github.com/DahianaMC/School_District_Analysis/blob/master/Top%20and%20Bottom%20Schools%20Table.png)
 
     
 
