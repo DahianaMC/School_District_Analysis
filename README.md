@@ -31,6 +31,7 @@
     ![District Summary Table](https://github.com/DahianaMC/School_District_Analysis/blob/master/District%20Summary%20Table.png)
 - How is the school summary affected?
     - The School Summary was affected only for Thomas High School and has a high impact on the % passing math and reading and % overall passing.  Looks like the ninth grades were having scores higher than 70% from the original data.
+    ![School Summary Table](https://github.com/DahianaMC/School_District_Analysis/blob/master/School%20Summary%20Table.png)
 
     
 
