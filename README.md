@@ -33,7 +33,7 @@
 
 ## Analysis
 - How is the district summary affected?
-    - The Distric Summary was made from the 39,170 students and displays the average of the data for the total of the students.  The data from ninth-grade math and reading scores from Thomas High School that has changed was for 461 students.  On the table below the percentages only are changing 1% on the %passing for math and reading and %overall passing columns.  
+    - The Distric Summary was made from the 39,170 students and displays the average of the data for the total of the students.  The data from ninth-grade math and reading scores from Thomas High School that has changed was for 461 students.  461 students is 1,18% of the total students (39,170).  On the table below the percentages only are changing 1% on the %passing for math and reading and %overall passing columns.  
     ![District Summary Table](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/District%20Summary%20Table.png)
 
 - How is the school summary affected?
@@ -41,17 +41,17 @@
     ![School Summary Table](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/School%20Summary%20Table.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
-    - The performance of the Thomas High School was seriously affected by loosing the reading and math scores from the 9th graders.  The school went from the 2nd place for the Charter type to the last one.
+    - The performance of the Thomas High School was seriously affected by replacing the reading and math scores from the 9th graders for NaN becuase the way the calculation is made in the code.  The school went from the 2nd place for the Charter type to the last one.
     ![Top and Bottom Schools Table](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/Top%20and%20Bottom%20Schools%20Table.png)
 
 - How does replacing the ninth-grade scores affect the following?
     - Math and Reading Scores by Grade:
-        - The math are reading scores changed on the data, were the ones for Thomas High School for 9th graders.  The math and reading scores are only NaN values now.  The summary tables show the actual (challenge) values for Thomas HS, 9th graders are only NaN values:
+        - The math and reading scores are only NaN values now for Thomas HS for 9th graders.  The summary tables show the actual (challenge) values for Thomas HS, 9th graders are NaN values, the rest of the graders and schools keep the original scores:
     ![Math Scores for 9th graders](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/Math%20Scores%20for%209th%20graders.png)
     ![Reading Scores for 9th graders](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/Reading%20Scores%20for%209th%20graders.png)
     
     - Scores by School Spending:
-        - Looking the School Summary table, the spending range for Thomas High School was $630-644.  The spending summary table shows the %Passing for math and reading and %Overall passing are decreasing, confirming a good number of values for math and reading for Thomas HS for 9th graders for the original data were higher than 70%.
+        - Looking the School Summary table, the spending range for Thomas High School was $630-644.  The spending summary table shows the %Passing for math and reading and %Overall passing are decreasing, because the issue with the calculation to get the % passing for math and reading scores.
     ![Spending Summary Table](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/Spending%20Summary%20Table.png)
     
     - Scores by School Size:
@@ -62,7 +62,7 @@
         - Since the Thomas HS was a Charter school type, the %Passing for math and reading and %Overall passing are decreasing for Charter school type on Type Summary table.
     ![Type Summary Table](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/Type%20Summary%20Table.png)
     
-- In general make the reading and math scores NaN for the Thomas HS, 9th graders, affects the calculations for %Passing math and reading scores and the %Overall Passing. Looks like several values for the data replaced were higher than 70%. 
+- In general make the reading and math scores NaN for the Thomas HS, 9th graders, affects the calculations for %Passing math and reading scores and the %Overall Passing, becuase the %passing for math and reading are computing  counting the reading or math scores higher than 70, then divide it by the total students per school, the issue of the formula is the total students are calculating counting the student names and does not reflect the scores that are NaN.
 
 ## Files for Challenge:
 - PyCitySchools Challenge.ipynb (jupyter notebook)
