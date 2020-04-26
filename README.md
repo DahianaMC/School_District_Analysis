@@ -20,7 +20,7 @@
     - School Summary (contains the average of the data by school name).
     - Type Summary (Provide average of the math and reading scores and %passing by school type).
     
-## Files for Challenge:
+## Files for Module Exercise:
 - PyCitySchools.ipynb (jupyter notebook)
 - Resources (folder with files for the module exercise and challenge)
 - output_org_code (folder for results for module exercise)
