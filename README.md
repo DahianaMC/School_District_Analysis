@@ -33,7 +33,7 @@
 
 ## Analysis
 - How is the district summary affected?
-    - The Distric Summary was made from the 39,170 students and it is displayed for total of the students.  The data from ninth-grade math and reading scores from Thomas High School that has changed was for 461 students.  The percentage of the students that has changed was 461/39,170x100=1.18%.  With this in mind the impact on the District summary was low.  On the table below the percentages only are changing 1% on the %passing for math and reading and %overall passing.  
+    - The Distric Summary was made from the 39,170 students and displays the average of the data for the total of the students.  The data from ninth-grade math and reading scores from Thomas High School that has changed was for 461 students.  On the table below the percentages only are changing 1% on the %passing for math and reading and %overall passing columns.  
     ![District Summary Table](https://github.com/DahianaMC/School_District_Analysis/blob/master/School_District_Analysis_Summary_Tables/District%20Summary%20Table.png)
 
 - How is the school summary affected?
